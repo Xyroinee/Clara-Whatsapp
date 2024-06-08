@@ -7,17 +7,17 @@ global.apikeys = 'Apikeylu'
 // • https://api.xyroinee.xyz
 
 // Info Owner
-global.owner = ['6285760451683']
-global.nomorown = "6285760451683"
-global.ownername = "Xyroınee-ID."
-global.ownerNumber = ["6285760451683@s.whatsapp.net"]
-global.creator = "6285760451683@s.whatsapp.net"
-global.author = "Clara - MD"
+global.owner = ['6281349925086']
+global.nomorown = "6281349925086"
+global.ownername = "BAGASZSTORE "
+global.ownerNumber = ["6281349225086@s.whatsapp.net"]
+global.creator = "6281349925086@s.whatsapp.net"
+global.author = "BAGAS - ZSTORE"
 global.location = "Indonesia"
 
 //Bot Setting
-global.botname = "Clara - MD"
-global.wm = "Follow Instagram: danilelistz02"
+global.botname = "BAGASZS - ZSTORE"
+global.wm = "Follow Instagram: BAGASZSTORE29"
 global.packname = "Sticker By"
 global.prefa = ['','!','.','#','&','`']
 global.hituet = 0
